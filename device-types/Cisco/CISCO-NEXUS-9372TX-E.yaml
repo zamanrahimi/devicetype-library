@@ -1,0 +1,15 @@
+manufacturer: Cisco
+model: Cisco Nexus 9372TX-E
+part_number: Cisco Nexus 9372TX-E
+slug: cisco-nexus-9372tx-e
+u_height: 1
+interfaces:
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Vlan1174
+    type: 100base-tx
+  - name: Vlan1174
+    type: 100base-tx
+comments: custom1

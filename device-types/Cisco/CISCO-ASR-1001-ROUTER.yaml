@@ -1,0 +1,41 @@
+manufacturer: Cisco
+model: Cisco ASR 1001 Router
+part_number: Cisco ASR 1001 Router
+slug: cisco-asr-1001-router
+u_height: 1
+interfaces:
+  - name: BDI2
+    type: 100base-tx
+  - name: BDI2306
+    type: 100base-tx
+  - name: BDI2606
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0/0/0
+    type: 100base-tx
+  - name: GigabitEthernet0/0/0
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/0/3
+    type: 100base-tx
+  - name: GigabitEthernet0/0/3
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Port-channel1
+    type: 100base-tx
+  - name: Port-channel1
+    type: 100base-tx
+comments: custom1

@@ -1,0 +1,185 @@
+manufacturer: Cisco
+model: Cisco Catalyst 3850-24P-E Switch
+part_number: Cisco Catalyst 3850-24P-E Switch
+slug: cisco-catalyst-3850-24p-e-switch
+u_height: 1
+interfaces:
+  - name: GigabitEthernet0/0
+    type: 100base-tx
+  - name: GigabitEthernet0/0
+    type: 100base-tx
+  - name: GigabitEthernet1/0/1
+    type: 100base-tx
+  - name: GigabitEthernet1/0/1
+    type: 100base-tx
+  - name: GigabitEthernet1/0/10
+    type: 100base-tx
+  - name: GigabitEthernet1/0/10
+    type: 100base-tx
+  - name: GigabitEthernet1/0/11
+    type: 100base-tx
+  - name: GigabitEthernet1/0/11
+    type: 100base-tx
+  - name: GigabitEthernet1/0/12
+    type: 100base-tx
+  - name: GigabitEthernet1/0/12
+    type: 100base-tx
+  - name: GigabitEthernet1/0/13
+    type: 100base-tx
+  - name: GigabitEthernet1/0/13
+    type: 100base-tx
+  - name: GigabitEthernet1/0/14
+    type: 100base-tx
+  - name: GigabitEthernet1/0/14
+    type: 100base-tx
+  - name: GigabitEthernet1/0/15
+    type: 100base-tx
+  - name: GigabitEthernet1/0/15
+    type: 100base-tx
+  - name: GigabitEthernet1/0/16
+    type: 100base-tx
+  - name: GigabitEthernet1/0/16
+    type: 100base-tx
+  - name: GigabitEthernet1/0/17
+    type: 100base-tx
+  - name: GigabitEthernet1/0/17
+    type: 100base-tx
+  - name: GigabitEthernet1/0/18
+    type: 100base-tx
+  - name: GigabitEthernet1/0/18
+    type: 100base-tx
+  - name: GigabitEthernet1/0/19
+    type: 100base-tx
+  - name: GigabitEthernet1/0/19
+    type: 100base-tx
+  - name: GigabitEthernet1/0/2
+    type: 100base-tx
+  - name: GigabitEthernet1/0/2
+    type: 100base-tx
+  - name: GigabitEthernet1/0/20
+    type: 100base-tx
+  - name: GigabitEthernet1/0/20
+    type: 100base-tx
+  - name: GigabitEthernet1/0/21
+    type: 100base-tx
+  - name: GigabitEthernet1/0/21
+    type: 100base-tx
+  - name: GigabitEthernet1/0/22
+    type: 100base-tx
+  - name: GigabitEthernet1/0/22
+    type: 100base-tx
+  - name: GigabitEthernet1/0/23
+    type: 100base-tx
+  - name: GigabitEthernet1/0/23
+    type: 100base-tx
+  - name: GigabitEthernet1/0/24
+    type: 100base-tx
+  - name: GigabitEthernet1/0/24
+    type: 100base-tx
+  - name: GigabitEthernet1/0/3
+    type: 100base-tx
+  - name: GigabitEthernet1/0/3
+    type: 100base-tx
+  - name: GigabitEthernet1/0/4
+    type: 100base-tx
+  - name: GigabitEthernet1/0/4
+    type: 100base-tx
+  - name: GigabitEthernet1/0/5
+    type: 100base-tx
+  - name: GigabitEthernet1/0/5
+    type: 100base-tx
+  - name: GigabitEthernet1/0/6
+    type: 100base-tx
+  - name: GigabitEthernet1/0/6
+    type: 100base-tx
+  - name: GigabitEthernet1/0/7
+    type: 100base-tx
+  - name: GigabitEthernet1/0/7
+    type: 100base-tx
+  - name: GigabitEthernet1/0/8
+    type: 100base-tx
+  - name: GigabitEthernet1/0/8
+    type: 100base-tx
+  - name: GigabitEthernet1/0/9
+    type: 100base-tx
+  - name: GigabitEthernet1/0/9
+    type: 100base-tx
+  - name: GigabitEthernet1/1/1
+    type: 100base-tx
+  - name: GigabitEthernet1/1/1
+    type: 100base-tx
+  - name: GigabitEthernet1/1/2
+    type: 100base-tx
+  - name: GigabitEthernet1/1/2
+    type: 100base-tx
+  - name: GigabitEthernet1/1/3
+    type: 100base-tx
+  - name: GigabitEthernet1/1/3
+    type: 100base-tx
+  - name: GigabitEthernet1/1/4
+    type: 100base-tx
+  - name: GigabitEthernet1/1/4
+    type: 100base-tx
+  - name: Te1/1/1
+    type: 100base-tx
+  - name: Te1/1/1
+    type: 100base-tx
+  - name: Te1/1/2
+    type: 100base-tx
+  - name: Te1/1/2
+    type: 100base-tx
+  - name: Te1/1/3
+    type: 100base-tx
+  - name: Te1/1/3
+    type: 100base-tx
+  - name: Te1/1/4
+    type: 100base-tx
+  - name: Te1/1/4
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan10
+    type: 100base-tx
+  - name: Vlan10
+    type: 100base-tx
+  - name: Vlan100
+    type: 100base-tx
+  - name: Vlan1000
+    type: 100base-tx
+  - name: Vlan1001
+    type: 100base-tx
+  - name: Vlan101
+    type: 100base-tx
+  - name: Vlan1040
+    type: 100base-tx
+  - name: Vlan1050
+    type: 100base-tx
+  - name: Vlan1060
+    type: 100base-tx
+  - name: Vlan1070
+    type: 100base-tx
+  - name: Vlan2
+    type: 100base-tx
+  - name: Vlan20
+    type: 100base-tx
+  - name: Vlan30
+    type: 100base-tx
+  - name: Vlan30
+    type: 100base-tx
+  - name: Vlan40
+    type: 100base-tx
+  - name: Vlan412
+    type: 100base-tx
+  - name: Vlan50
+    type: 100base-tx
+  - name: Vlan60
+    type: 100base-tx
+  - name: Vlan60
+    type: 100base-tx
+  - name: Vlan70
+    type: 100base-tx
+  - name: Vlan99
+    type: 100base-tx
+comments: custom1

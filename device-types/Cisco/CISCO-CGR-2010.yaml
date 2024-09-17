@@ -1,0 +1,283 @@
+manufacturer: Cisco
+model: Cisco CGR-2010
+part_number: Cisco CGR-2010
+slug: cisco-cgr-2010
+u_height: 1
+interfaces:
+  - name: Cellular0/0/0
+    type: 100base-tx
+  - name: Cellular0/0/1
+    type: 100base-tx
+  - name: Cellular0/1/0
+    type: 100base-tx
+  - name: Cellular0/1/0
+    type: 100base-tx
+  - name: Cellular0/1/0
+    type: 100base-tx
+  - name: Cellular0/1/0
+    type: 100base-tx
+  - name: Cellular0/1/0
+    type: 100base-tx
+  - name: Cellular0/1/0
+    type: 100base-tx
+  - name: Cellular0/1/0
+    type: 100base-tx
+  - name: Cellular0/1/0
+    type: 100base-tx
+  - name: Cellular0/1/0
+    type: 100base-tx
+  - name: Cellular0/1/0
+    type: 100base-tx
+  - name: Cellular0/1/0
+    type: 100base-tx
+  - name: Cellular0/1/1
+    type: 100base-tx
+  - name: Cellular0/1/1
+    type: 100base-tx
+  - name: Cellular0/1/1
+    type: 100base-tx
+  - name: Cellular0/1/1
+    type: 100base-tx
+  - name: Cellular0/1/1
+    type: 100base-tx
+  - name: Cellular0/1/1
+    type: 100base-tx
+  - name: Cellular0/1/1
+    type: 100base-tx
+  - name: Cellular0/1/1
+    type: 100base-tx
+  - name: GigabitEthernet0/0
+    type: 100base-tx
+  - name: GigabitEthernet0/0
+    type: 100base-tx
+  - name: GigabitEthernet0/0
+    type: 100base-tx
+  - name: GigabitEthernet0/0
+    type: 100base-tx
+  - name: GigabitEthernet0/0
+    type: 100base-tx
+  - name: GigabitEthernet0/0
+    type: 100base-tx
+  - name: GigabitEthernet0/0
+    type: 100base-tx
+  - name: GigabitEthernet0/0
+    type: 100base-tx
+  - name: GigabitEthernet0/0
+    type: 100base-tx
+  - name: GigabitEthernet0/0
+    type: 100base-tx
+  - name: GigabitEthernet0/0
+    type: 100base-tx
+  - name: GigabitEthernet0/0.50
+    type: 100base-tx
+  - name: GigabitEthernet0/0.50
+    type: 100base-tx
+  - name: GigabitEthernet0/0.50
+    type: 100base-tx
+  - name: GigabitEthernet0/0.50
+    type: 100base-tx
+  - name: GigabitEthernet0/0.50
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.101
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.101
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.101
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.101
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.102
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.102
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.102
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.102
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.120
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.120
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.120
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.120
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.201
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.201
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.201
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.201
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.201
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.201
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.201
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.201
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.201
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.201
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.203
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.500
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.500
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.500
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.500
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.901
+    type: 100base-tx
+  - name: GigabitEthernet0/2/0.901
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Tunnel20
+    type: 100base-tx
+  - name: Tunnel20
+    type: 100base-tx
+  - name: Tunnel20
+    type: 100base-tx
+  - name: Tunnel20
+    type: 100base-tx
+  - name: Tunnel20
+    type: 100base-tx
+  - name: Tunnel20
+    type: 100base-tx
+  - name: Tunnel30
+    type: 100base-tx
+  - name: Tunnel30
+    type: 100base-tx
+  - name: Tunnel30
+    type: 100base-tx
+  - name: Tunnel30
+    type: 100base-tx
+  - name: Tunnel30
+    type: 100base-tx
+  - name: Tunnel30
+    type: 100base-tx
+  - name: Tunnel40
+    type: 100base-tx
+  - name: Tunnel40
+    type: 100base-tx
+  - name: Tunnel40
+    type: 100base-tx
+  - name: Tunnel40
+    type: 100base-tx
+  - name: Tunnel40
+    type: 100base-tx
+comments: custom1

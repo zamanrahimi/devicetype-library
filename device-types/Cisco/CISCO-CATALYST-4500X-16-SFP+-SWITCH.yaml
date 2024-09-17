@@ -1,0 +1,225 @@
+manufacturer: Cisco
+model: Cisco Catalyst 4500X-16 SFP+ Switch
+part_number: Cisco Catalyst 4500X-16 SFP+ Switch
+slug: cisco-catalyst-4500x-16-sfp+-switch
+u_height: 1
+interfaces:
+  - name: FastEthernet1
+    type: 100base-tx
+  - name: FastEthernet1
+    type: 100base-tx
+  - name: FastEthernet1
+    type: 100base-tx
+  - name: FastEthernet1
+    type: 100base-tx
+  - name: Port-channel1
+    type: 100base-tx
+  - name: Port-channel1
+    type: 100base-tx
+  - name: Port-channel1
+    type: 100base-tx
+  - name: Port-channel1
+    type: 100base-tx
+  - name: Port-channel13
+    type: 100base-tx
+  - name: Port-channel13
+    type: 100base-tx
+  - name: Port-channel2
+    type: 100base-tx
+  - name: Port-channel2
+    type: 100base-tx
+  - name: Port-channel2
+    type: 100base-tx
+  - name: Port-channel2
+    type: 100base-tx
+  - name: Port-channel3
+    type: 100base-tx
+  - name: Port-channel3
+    type: 100base-tx
+  - name: Port-channel3
+    type: 100base-tx
+  - name: Port-channel3
+    type: 100base-tx
+  - name: Port-channel4
+    type: 100base-tx
+  - name: Port-channel4
+    type: 100base-tx
+  - name: Port-channel5
+    type: 100base-tx
+  - name: Port-channel5
+    type: 100base-tx
+  - name: Port-channel5
+    type: 100base-tx
+  - name: TenGigabitEthernet1/1
+    type: 100base-tx
+  - name: TenGigabitEthernet1/1
+    type: 100base-tx
+  - name: TenGigabitEthernet1/1
+    type: 100base-tx
+  - name: TenGigabitEthernet1/1
+    type: 100base-tx
+  - name: TenGigabitEthernet1/10
+    type: 100base-tx
+  - name: TenGigabitEthernet1/10
+    type: 100base-tx
+  - name: TenGigabitEthernet1/10
+    type: 100base-tx
+  - name: TenGigabitEthernet1/10
+    type: 100base-tx
+  - name: TenGigabitEthernet1/11
+    type: 100base-tx
+  - name: TenGigabitEthernet1/11
+    type: 100base-tx
+  - name: TenGigabitEthernet1/11
+    type: 100base-tx
+  - name: TenGigabitEthernet1/11
+    type: 100base-tx
+  - name: TenGigabitEthernet1/12
+    type: 100base-tx
+  - name: TenGigabitEthernet1/12
+    type: 100base-tx
+  - name: TenGigabitEthernet1/12
+    type: 100base-tx
+  - name: TenGigabitEthernet1/12
+    type: 100base-tx
+  - name: TenGigabitEthernet1/13
+    type: 100base-tx
+  - name: TenGigabitEthernet1/13
+    type: 100base-tx
+  - name: TenGigabitEthernet1/13
+    type: 100base-tx
+  - name: TenGigabitEthernet1/13
+    type: 100base-tx
+  - name: TenGigabitEthernet1/14
+    type: 100base-tx
+  - name: TenGigabitEthernet1/14
+    type: 100base-tx
+  - name: TenGigabitEthernet1/14
+    type: 100base-tx
+  - name: TenGigabitEthernet1/14
+    type: 100base-tx
+  - name: TenGigabitEthernet1/15
+    type: 100base-tx
+  - name: TenGigabitEthernet1/15
+    type: 100base-tx
+  - name: TenGigabitEthernet1/15
+    type: 100base-tx
+  - name: TenGigabitEthernet1/15
+    type: 100base-tx
+  - name: TenGigabitEthernet1/16
+    type: 100base-tx
+  - name: TenGigabitEthernet1/16
+    type: 100base-tx
+  - name: TenGigabitEthernet1/16
+    type: 100base-tx
+  - name: TenGigabitEthernet1/16
+    type: 100base-tx
+  - name: TenGigabitEthernet1/2
+    type: 100base-tx
+  - name: TenGigabitEthernet1/2
+    type: 100base-tx
+  - name: TenGigabitEthernet1/2
+    type: 100base-tx
+  - name: TenGigabitEthernet1/2
+    type: 100base-tx
+  - name: TenGigabitEthernet1/3
+    type: 100base-tx
+  - name: TenGigabitEthernet1/3
+    type: 100base-tx
+  - name: TenGigabitEthernet1/3
+    type: 100base-tx
+  - name: TenGigabitEthernet1/3
+    type: 100base-tx
+  - name: TenGigabitEthernet1/4
+    type: 100base-tx
+  - name: TenGigabitEthernet1/4
+    type: 100base-tx
+  - name: TenGigabitEthernet1/4
+    type: 100base-tx
+  - name: TenGigabitEthernet1/4
+    type: 100base-tx
+  - name: TenGigabitEthernet1/5
+    type: 100base-tx
+  - name: TenGigabitEthernet1/5
+    type: 100base-tx
+  - name: TenGigabitEthernet1/5
+    type: 100base-tx
+  - name: TenGigabitEthernet1/5
+    type: 100base-tx
+  - name: TenGigabitEthernet1/6
+    type: 100base-tx
+  - name: TenGigabitEthernet1/6
+    type: 100base-tx
+  - name: TenGigabitEthernet1/6
+    type: 100base-tx
+  - name: TenGigabitEthernet1/6
+    type: 100base-tx
+  - name: TenGigabitEthernet1/7
+    type: 100base-tx
+  - name: TenGigabitEthernet1/7
+    type: 100base-tx
+  - name: TenGigabitEthernet1/7
+    type: 100base-tx
+  - name: TenGigabitEthernet1/7
+    type: 100base-tx
+  - name: TenGigabitEthernet1/8
+    type: 100base-tx
+  - name: TenGigabitEthernet1/8
+    type: 100base-tx
+  - name: TenGigabitEthernet1/8
+    type: 100base-tx
+  - name: TenGigabitEthernet1/8
+    type: 100base-tx
+  - name: TenGigabitEthernet1/9
+    type: 100base-tx
+  - name: TenGigabitEthernet1/9
+    type: 100base-tx
+  - name: TenGigabitEthernet1/9
+    type: 100base-tx
+  - name: TenGigabitEthernet1/9
+    type: 100base-tx
+  - name: TenGigabitEthernet2/1
+    type: 100base-tx
+  - name: TenGigabitEthernet2/1
+    type: 100base-tx
+  - name: TenGigabitEthernet2/2
+    type: 100base-tx
+  - name: TenGigabitEthernet2/2
+    type: 100base-tx
+  - name: TenGigabitEthernet2/3
+    type: 100base-tx
+  - name: TenGigabitEthernet2/3
+    type: 100base-tx
+  - name: TenGigabitEthernet2/4
+    type: 100base-tx
+  - name: TenGigabitEthernet2/4
+    type: 100base-tx
+  - name: TenGigabitEthernet2/5
+    type: 100base-tx
+  - name: TenGigabitEthernet2/5
+    type: 100base-tx
+  - name: TenGigabitEthernet2/6
+    type: 100base-tx
+  - name: TenGigabitEthernet2/6
+    type: 100base-tx
+  - name: TenGigabitEthernet2/7
+    type: 100base-tx
+  - name: TenGigabitEthernet2/7
+    type: 100base-tx
+  - name: TenGigabitEthernet2/8
+    type: 100base-tx
+  - name: TenGigabitEthernet2/8
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+comments: custom1

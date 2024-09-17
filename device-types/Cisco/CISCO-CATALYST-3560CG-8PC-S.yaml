@@ -1,0 +1,81 @@
+manufacturer: Cisco
+model: Cisco Catalyst 3560CG-8PC-S
+part_number: Cisco Catalyst 3560CG-8PC-S
+slug: cisco-catalyst-3560cg-8pc-s
+u_height: 1
+interfaces:
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/10
+    type: 100base-tx
+  - name: GigabitEthernet0/10
+    type: 100base-tx
+  - name: GigabitEthernet0/10
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/3
+    type: 100base-tx
+  - name: GigabitEthernet0/3
+    type: 100base-tx
+  - name: GigabitEthernet0/3
+    type: 100base-tx
+  - name: GigabitEthernet0/4
+    type: 100base-tx
+  - name: GigabitEthernet0/4
+    type: 100base-tx
+  - name: GigabitEthernet0/4
+    type: 100base-tx
+  - name: GigabitEthernet0/5
+    type: 100base-tx
+  - name: GigabitEthernet0/5
+    type: 100base-tx
+  - name: GigabitEthernet0/5
+    type: 100base-tx
+  - name: GigabitEthernet0/6
+    type: 100base-tx
+  - name: GigabitEthernet0/6
+    type: 100base-tx
+  - name: GigabitEthernet0/6
+    type: 100base-tx
+  - name: GigabitEthernet0/7
+    type: 100base-tx
+  - name: GigabitEthernet0/7
+    type: 100base-tx
+  - name: GigabitEthernet0/7
+    type: 100base-tx
+  - name: GigabitEthernet0/8
+    type: 100base-tx
+  - name: GigabitEthernet0/8
+    type: 100base-tx
+  - name: GigabitEthernet0/8
+    type: 100base-tx
+  - name: GigabitEthernet0/9
+    type: 100base-tx
+  - name: GigabitEthernet0/9
+    type: 100base-tx
+  - name: GigabitEthernet0/9
+    type: 100base-tx
+  - name: Port-channel2
+    type: 100base-tx
+  - name: Port-channel6
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan187
+    type: 100base-tx
+  - name: Vlan187
+    type: 100base-tx
+comments: custom1

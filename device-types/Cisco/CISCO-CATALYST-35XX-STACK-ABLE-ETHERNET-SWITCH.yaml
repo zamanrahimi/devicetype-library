@@ -1,0 +1,129 @@
+manufacturer: Cisco
+model: Cisco Catalyst 35xx Stack-able Ethernet Switch
+part_number: Cisco Catalyst 35xx Stack-able Ethernet Switch
+slug: cisco-catalyst-35xx-stack-able-ethernet-switch
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/0/1
+    type: 100base-tx
+  - name: GigabitEthernet1/0/1
+    type: 100base-tx
+  - name: GigabitEthernet1/0/1
+    type: 100base-tx
+  - name: GigabitEthernet1/0/10
+    type: 100base-tx
+  - name: GigabitEthernet1/0/10
+    type: 100base-tx
+  - name: GigabitEthernet1/0/10
+    type: 100base-tx
+  - name: GigabitEthernet1/0/11
+    type: 100base-tx
+  - name: GigabitEthernet1/0/11
+    type: 100base-tx
+  - name: GigabitEthernet1/0/11
+    type: 100base-tx
+  - name: GigabitEthernet1/0/12
+    type: 100base-tx
+  - name: GigabitEthernet1/0/12
+    type: 100base-tx
+  - name: GigabitEthernet1/0/12
+    type: 100base-tx
+  - name: GigabitEthernet1/0/13
+    type: 100base-tx
+  - name: GigabitEthernet1/0/13
+    type: 100base-tx
+  - name: GigabitEthernet1/0/13
+    type: 100base-tx
+  - name: GigabitEthernet1/0/14
+    type: 100base-tx
+  - name: GigabitEthernet1/0/14
+    type: 100base-tx
+  - name: GigabitEthernet1/0/14
+    type: 100base-tx
+  - name: GigabitEthernet1/0/15
+    type: 100base-tx
+  - name: GigabitEthernet1/0/15
+    type: 100base-tx
+  - name: GigabitEthernet1/0/15
+    type: 100base-tx
+  - name: GigabitEthernet1/0/16
+    type: 100base-tx
+  - name: GigabitEthernet1/0/16
+    type: 100base-tx
+  - name: GigabitEthernet1/0/16
+    type: 100base-tx
+  - name: GigabitEthernet1/0/2
+    type: 100base-tx
+  - name: GigabitEthernet1/0/2
+    type: 100base-tx
+  - name: GigabitEthernet1/0/2
+    type: 100base-tx
+  - name: GigabitEthernet1/0/3
+    type: 100base-tx
+  - name: GigabitEthernet1/0/3
+    type: 100base-tx
+  - name: GigabitEthernet1/0/3
+    type: 100base-tx
+  - name: GigabitEthernet1/0/4
+    type: 100base-tx
+  - name: GigabitEthernet1/0/4
+    type: 100base-tx
+  - name: GigabitEthernet1/0/4
+    type: 100base-tx
+  - name: GigabitEthernet1/0/5
+    type: 100base-tx
+  - name: GigabitEthernet1/0/5
+    type: 100base-tx
+  - name: GigabitEthernet1/0/5
+    type: 100base-tx
+  - name: GigabitEthernet1/0/6
+    type: 100base-tx
+  - name: GigabitEthernet1/0/6
+    type: 100base-tx
+  - name: GigabitEthernet1/0/6
+    type: 100base-tx
+  - name: GigabitEthernet1/0/7
+    type: 100base-tx
+  - name: GigabitEthernet1/0/7
+    type: 100base-tx
+  - name: GigabitEthernet1/0/7
+    type: 100base-tx
+  - name: GigabitEthernet1/0/8
+    type: 100base-tx
+  - name: GigabitEthernet1/0/8
+    type: 100base-tx
+  - name: GigabitEthernet1/0/8
+    type: 100base-tx
+  - name: GigabitEthernet1/0/9
+    type: 100base-tx
+  - name: GigabitEthernet1/0/9
+    type: 100base-tx
+  - name: GigabitEthernet1/0/9
+    type: 100base-tx
+  - name: Te1/0/1
+    type: 100base-tx
+  - name: Te1/0/1
+    type: 100base-tx
+  - name: Te1/0/1
+    type: 100base-tx
+  - name: Te1/0/2
+    type: 100base-tx
+  - name: Te1/0/2
+    type: 100base-tx
+  - name: Te1/0/2
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan30
+    type: 100base-tx
+  - name: Vlan500
+    type: 100base-tx
+  - name: Vlan60
+    type: 100base-tx
+  - name: Vlan60
+    type: 100base-tx
+comments: custom1

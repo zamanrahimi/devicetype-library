@@ -1,0 +1,279 @@
+manufacturer: Cisco
+model: Cisco IE-4000-4GS8GP4G-E Industrial Ethernet Switch
+part_number: Cisco IE-4000-4GS8GP4G-E Industrial Ethernet Switch
+slug: cisco-ie-4000-4gs8gp4g-e-industrial-ethernet-switch
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/1
+    type: 100base-tx
+  - name: GigabitEthernet1/1
+    type: 100base-tx
+  - name: GigabitEthernet1/1
+    type: 100base-tx
+  - name: GigabitEthernet1/1
+    type: 100base-tx
+  - name: GigabitEthernet1/1
+    type: 100base-tx
+  - name: GigabitEthernet1/1
+    type: 100base-tx
+  - name: GigabitEthernet1/1
+    type: 100base-tx
+  - name: GigabitEthernet1/10
+    type: 100base-tx
+  - name: GigabitEthernet1/10
+    type: 100base-tx
+  - name: GigabitEthernet1/10
+    type: 100base-tx
+  - name: GigabitEthernet1/10
+    type: 100base-tx
+  - name: GigabitEthernet1/10
+    type: 100base-tx
+  - name: GigabitEthernet1/10
+    type: 100base-tx
+  - name: GigabitEthernet1/10
+    type: 100base-tx
+  - name: GigabitEthernet1/11
+    type: 100base-tx
+  - name: GigabitEthernet1/11
+    type: 100base-tx
+  - name: GigabitEthernet1/11
+    type: 100base-tx
+  - name: GigabitEthernet1/11
+    type: 100base-tx
+  - name: GigabitEthernet1/11
+    type: 100base-tx
+  - name: GigabitEthernet1/11
+    type: 100base-tx
+  - name: GigabitEthernet1/11
+    type: 100base-tx
+  - name: GigabitEthernet1/12
+    type: 100base-tx
+  - name: GigabitEthernet1/12
+    type: 100base-tx
+  - name: GigabitEthernet1/12
+    type: 100base-tx
+  - name: GigabitEthernet1/12
+    type: 100base-tx
+  - name: GigabitEthernet1/12
+    type: 100base-tx
+  - name: GigabitEthernet1/12
+    type: 100base-tx
+  - name: GigabitEthernet1/12
+    type: 100base-tx
+  - name: GigabitEthernet1/13
+    type: 100base-tx
+  - name: GigabitEthernet1/13
+    type: 100base-tx
+  - name: GigabitEthernet1/13
+    type: 100base-tx
+  - name: GigabitEthernet1/13
+    type: 100base-tx
+  - name: GigabitEthernet1/13
+    type: 100base-tx
+  - name: GigabitEthernet1/13
+    type: 100base-tx
+  - name: GigabitEthernet1/13
+    type: 100base-tx
+  - name: GigabitEthernet1/14
+    type: 100base-tx
+  - name: GigabitEthernet1/14
+    type: 100base-tx
+  - name: GigabitEthernet1/14
+    type: 100base-tx
+  - name: GigabitEthernet1/14
+    type: 100base-tx
+  - name: GigabitEthernet1/14
+    type: 100base-tx
+  - name: GigabitEthernet1/14
+    type: 100base-tx
+  - name: GigabitEthernet1/14
+    type: 100base-tx
+  - name: GigabitEthernet1/15
+    type: 100base-tx
+  - name: GigabitEthernet1/15
+    type: 100base-tx
+  - name: GigabitEthernet1/15
+    type: 100base-tx
+  - name: GigabitEthernet1/15
+    type: 100base-tx
+  - name: GigabitEthernet1/15
+    type: 100base-tx
+  - name: GigabitEthernet1/15
+    type: 100base-tx
+  - name: GigabitEthernet1/15
+    type: 100base-tx
+  - name: GigabitEthernet1/16
+    type: 100base-tx
+  - name: GigabitEthernet1/16
+    type: 100base-tx
+  - name: GigabitEthernet1/16
+    type: 100base-tx
+  - name: GigabitEthernet1/16
+    type: 100base-tx
+  - name: GigabitEthernet1/16
+    type: 100base-tx
+  - name: GigabitEthernet1/16
+    type: 100base-tx
+  - name: GigabitEthernet1/16
+    type: 100base-tx
+  - name: GigabitEthernet1/2
+    type: 100base-tx
+  - name: GigabitEthernet1/2
+    type: 100base-tx
+  - name: GigabitEthernet1/2
+    type: 100base-tx
+  - name: GigabitEthernet1/2
+    type: 100base-tx
+  - name: GigabitEthernet1/2
+    type: 100base-tx
+  - name: GigabitEthernet1/2
+    type: 100base-tx
+  - name: GigabitEthernet1/2
+    type: 100base-tx
+  - name: GigabitEthernet1/3
+    type: 100base-tx
+  - name: GigabitEthernet1/3
+    type: 100base-tx
+  - name: GigabitEthernet1/3
+    type: 100base-tx
+  - name: GigabitEthernet1/3
+    type: 100base-tx
+  - name: GigabitEthernet1/3
+    type: 100base-tx
+  - name: GigabitEthernet1/3
+    type: 100base-tx
+  - name: GigabitEthernet1/3
+    type: 100base-tx
+  - name: GigabitEthernet1/4
+    type: 100base-tx
+  - name: GigabitEthernet1/4
+    type: 100base-tx
+  - name: GigabitEthernet1/4
+    type: 100base-tx
+  - name: GigabitEthernet1/4
+    type: 100base-tx
+  - name: GigabitEthernet1/4
+    type: 100base-tx
+  - name: GigabitEthernet1/4
+    type: 100base-tx
+  - name: GigabitEthernet1/4
+    type: 100base-tx
+  - name: GigabitEthernet1/5
+    type: 100base-tx
+  - name: GigabitEthernet1/5
+    type: 100base-tx
+  - name: GigabitEthernet1/5
+    type: 100base-tx
+  - name: GigabitEthernet1/5
+    type: 100base-tx
+  - name: GigabitEthernet1/5
+    type: 100base-tx
+  - name: GigabitEthernet1/5
+    type: 100base-tx
+  - name: GigabitEthernet1/5
+    type: 100base-tx
+  - name: GigabitEthernet1/6
+    type: 100base-tx
+  - name: GigabitEthernet1/6
+    type: 100base-tx
+  - name: GigabitEthernet1/6
+    type: 100base-tx
+  - name: GigabitEthernet1/6
+    type: 100base-tx
+  - name: GigabitEthernet1/6
+    type: 100base-tx
+  - name: GigabitEthernet1/6
+    type: 100base-tx
+  - name: GigabitEthernet1/6
+    type: 100base-tx
+  - name: GigabitEthernet1/7
+    type: 100base-tx
+  - name: GigabitEthernet1/7
+    type: 100base-tx
+  - name: GigabitEthernet1/7
+    type: 100base-tx
+  - name: GigabitEthernet1/7
+    type: 100base-tx
+  - name: GigabitEthernet1/7
+    type: 100base-tx
+  - name: GigabitEthernet1/7
+    type: 100base-tx
+  - name: GigabitEthernet1/7
+    type: 100base-tx
+  - name: GigabitEthernet1/8
+    type: 100base-tx
+  - name: GigabitEthernet1/8
+    type: 100base-tx
+  - name: GigabitEthernet1/8
+    type: 100base-tx
+  - name: GigabitEthernet1/8
+    type: 100base-tx
+  - name: GigabitEthernet1/8
+    type: 100base-tx
+  - name: GigabitEthernet1/8
+    type: 100base-tx
+  - name: GigabitEthernet1/8
+    type: 100base-tx
+  - name: GigabitEthernet1/9
+    type: 100base-tx
+  - name: GigabitEthernet1/9
+    type: 100base-tx
+  - name: GigabitEthernet1/9
+    type: 100base-tx
+  - name: GigabitEthernet1/9
+    type: 100base-tx
+  - name: GigabitEthernet1/9
+    type: 100base-tx
+  - name: GigabitEthernet1/9
+    type: 100base-tx
+  - name: GigabitEthernet1/9
+    type: 100base-tx
+  - name: Port-channel7
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan30
+    type: 100base-tx
+  - name: Vlan30
+    type: 100base-tx
+  - name: Vlan30
+    type: 100base-tx
+  - name: Vlan60
+    type: 100base-tx
+  - name: Vlan60
+    type: 100base-tx
+  - name: Vlan60
+    type: 100base-tx
+  - name: Vlan60
+    type: 100base-tx
+  - name: Vlan60
+    type: 100base-tx
+  - name: Vlan60
+    type: 100base-tx
+  - name: Vlan60
+    type: 100base-tx
+  - name: Vlan999
+    type: 100base-tx
+  - name: Vlan999
+    type: 100base-tx
+  - name: Vlan999
+    type: 100base-tx
+  - name: Vlan999
+    type: 100base-tx
+  - name: Vlan999
+    type: 100base-tx
+  - name: Vlan999
+    type: 100base-tx
+comments: custom1

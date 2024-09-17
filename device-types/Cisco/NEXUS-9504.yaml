@@ -1,0 +1,409 @@
+manufacturer: Cisco
+model: Nexus 9504
+part_number: Nexus 9504
+slug: nexus-9504
+u_height: 1
+interfaces:
+  - name: Eth1/11.100
+    type: 100base-tx
+  - name: Eth1/11.100
+    type: 100base-tx
+  - name: Eth1/11.100
+    type: 100base-tx
+  - name: Eth1/11.100
+    type: 100base-tx
+  - name: Eth1/15.100
+    type: 100base-tx
+  - name: Eth1/15.100
+    type: 100base-tx
+  - name: Eth1/15.100
+    type: 100base-tx
+  - name: Eth1/15.100
+    type: 100base-tx
+  - name: Eth1/16.100
+    type: 100base-tx
+  - name: Eth1/16.100
+    type: 100base-tx
+  - name: Eth1/16.100
+    type: 100base-tx
+  - name: Eth1/16.100
+    type: 100base-tx
+  - name: Eth1/25
+    type: 100base-tx
+  - name: Eth1/25
+    type: 100base-tx
+  - name: Eth1/3
+    type: 100base-tx
+  - name: Eth1/3
+    type: 100base-tx
+  - name: Eth1/33
+    type: 100base-tx
+  - name: Eth1/33
+    type: 100base-tx
+  - name: Eth1/34
+    type: 100base-tx
+  - name: Eth1/34
+    type: 100base-tx
+  - name: Eth1/36.100
+    type: 100base-tx
+  - name: Eth1/36.100
+    type: 100base-tx
+  - name: Eth1/36.100
+    type: 100base-tx
+  - name: Eth1/36.100
+    type: 100base-tx
+  - name: Eth1/37.100
+    type: 100base-tx
+  - name: Eth1/37.100
+    type: 100base-tx
+  - name: Eth1/37.100
+    type: 100base-tx
+  - name: Eth1/37.100
+    type: 100base-tx
+  - name: Eth1/38.100
+    type: 100base-tx
+  - name: Eth1/38.100
+    type: 100base-tx
+  - name: Eth1/38.100
+    type: 100base-tx
+  - name: Eth1/38.100
+    type: 100base-tx
+  - name: Eth1/39.100
+    type: 100base-tx
+  - name: Eth1/39.100
+    type: 100base-tx
+  - name: Eth1/39.100
+    type: 100base-tx
+  - name: Eth1/39.100
+    type: 100base-tx
+  - name: Eth1/40.100
+    type: 100base-tx
+  - name: Eth1/40.100
+    type: 100base-tx
+  - name: Eth1/40.100
+    type: 100base-tx
+  - name: Eth1/40.100
+    type: 100base-tx
+  - name: Eth1/41.100
+    type: 100base-tx
+  - name: Eth1/41.100
+    type: 100base-tx
+  - name: Eth1/41.100
+    type: 100base-tx
+  - name: Eth1/41.100
+    type: 100base-tx
+  - name: Eth1/41.101
+    type: 100base-tx
+  - name: Eth1/41.101
+    type: 100base-tx
+  - name: Eth1/41.101
+    type: 100base-tx
+  - name: Eth1/41.101
+    type: 100base-tx
+  - name: Eth1/41.102
+    type: 100base-tx
+  - name: Eth1/41.102
+    type: 100base-tx
+  - name: Eth1/41.102
+    type: 100base-tx
+  - name: Eth1/41.102
+    type: 100base-tx
+  - name: Eth1/42.100
+    type: 100base-tx
+  - name: Eth1/42.100
+    type: 100base-tx
+  - name: Eth1/42.100
+    type: 100base-tx
+  - name: Eth1/42.100
+    type: 100base-tx
+  - name: Eth1/42.101
+    type: 100base-tx
+  - name: Eth1/42.101
+    type: 100base-tx
+  - name: Eth1/42.101
+    type: 100base-tx
+  - name: Eth1/42.101
+    type: 100base-tx
+  - name: Eth1/42.102
+    type: 100base-tx
+  - name: Eth1/42.102
+    type: 100base-tx
+  - name: Eth1/42.102
+    type: 100base-tx
+  - name: Eth1/42.102
+    type: 100base-tx
+  - name: Eth1/45.100
+    type: 100base-tx
+  - name: Eth1/45.100
+    type: 100base-tx
+  - name: Eth1/45.100
+    type: 100base-tx
+  - name: Eth1/45.100
+    type: 100base-tx
+  - name: Eth1/45.21
+    type: 100base-tx
+  - name: Eth1/45.21
+    type: 100base-tx
+  - name: Eth1/45.21
+    type: 100base-tx
+  - name: Eth1/45.21
+    type: 100base-tx
+  - name: Eth1/46.100
+    type: 100base-tx
+  - name: Eth1/46.100
+    type: 100base-tx
+  - name: Eth1/46.100
+    type: 100base-tx
+  - name: Eth1/46.100
+    type: 100base-tx
+  - name: Eth1/46.21
+    type: 100base-tx
+  - name: Eth1/46.21
+    type: 100base-tx
+  - name: Eth1/46.21
+    type: 100base-tx
+  - name: Eth1/46.21
+    type: 100base-tx
+  - name: Eth1/47
+    type: 100base-tx
+  - name: Eth1/47
+    type: 100base-tx
+  - name: Eth1/48
+    type: 100base-tx
+  - name: Eth1/48
+    type: 100base-tx
+  - name: Eth1/49.100
+    type: 100base-tx
+  - name: Eth1/49.100
+    type: 100base-tx
+  - name: Eth1/49.101
+    type: 100base-tx
+  - name: Eth1/49.101
+    type: 100base-tx
+  - name: Eth1/49.102
+    type: 100base-tx
+  - name: Eth1/49.102
+    type: 100base-tx
+  - name: Eth1/50.100
+    type: 100base-tx
+  - name: Eth1/50.100
+    type: 100base-tx
+  - name: Eth1/50.101
+    type: 100base-tx
+  - name: Eth1/50.101
+    type: 100base-tx
+  - name: Eth1/50.102
+    type: 100base-tx
+  - name: Eth1/50.102
+    type: 100base-tx
+  - name: Eth1/51.5
+    type: 100base-tx
+  - name: Eth1/51.5
+    type: 100base-tx
+  - name: Eth1/51.5
+    type: 100base-tx
+  - name: Eth1/51.5
+    type: 100base-tx
+  - name: Eth3/18
+    type: 100base-tx
+  - name: Eth3/18
+    type: 100base-tx
+  - name: Eth3/21
+    type: 100base-tx
+  - name: Eth3/21
+    type: 100base-tx
+  - name: Eth3/21
+    type: 100base-tx
+  - name: Eth3/21
+    type: 100base-tx
+  - name: Eth3/23
+    type: 100base-tx
+  - name: Eth3/23
+    type: 100base-tx
+  - name: Eth3/24
+    type: 100base-tx
+  - name: Eth3/24
+    type: 100base-tx
+  - name: Eth3/31
+    type: 100base-tx
+  - name: Eth3/31
+    type: 100base-tx
+  - name: Eth3/4.100
+    type: 100base-tx
+  - name: Eth3/51.5
+    type: 100base-tx
+  - name: Eth3/51.5
+    type: 100base-tx
+  - name: Eth3/51.5
+    type: 100base-tx
+  - name: Eth3/51.5
+    type: 100base-tx
+  - name: IP
+    type: 100base-tx
+  - name: IP
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Lo0
+    type: 100base-tx
+  - name: Lo0
+    type: 100base-tx
+  - name: Lo0
+    type: 100base-tx
+  - name: Lo0
+    type: 100base-tx
+  - name: Lo100
+    type: 100base-tx
+  - name: Lo100
+    type: 100base-tx
+  - name: Lo100
+    type: 100base-tx
+  - name: Lo100
+    type: 100base-tx
+  - name: Lo101
+    type: 100base-tx
+  - name: Lo101
+    type: 100base-tx
+  - name: Lo101
+    type: 100base-tx
+  - name: Lo101
+    type: 100base-tx
+  - name: Lo5
+    type: 100base-tx
+  - name: Lo5
+    type: 100base-tx
+  - name: Lo5
+    type: 100base-tx
+  - name: Lo5
+    type: 100base-tx
+  - name: Vlan1232
+    type: 100base-tx
+  - name: Vlan1232
+    type: 100base-tx
+  - name: Vlan1240
+    type: 100base-tx
+  - name: Vlan1240
+    type: 100base-tx
+  - name: Vlan2021
+    type: 100base-tx
+  - name: Vlan2021
+    type: 100base-tx
+  - name: Vlan2021
+    type: 100base-tx
+  - name: Vlan2021
+    type: 100base-tx
+  - name: Vlan2056
+    type: 100base-tx
+  - name: Vlan2056
+    type: 100base-tx
+  - name: Vlan2152
+    type: 100base-tx
+  - name: Vlan2152
+    type: 100base-tx
+  - name: Vlan2160
+    type: 100base-tx
+  - name: Vlan2160
+    type: 100base-tx
+  - name: Vlan2168
+    type: 100base-tx
+  - name: Vlan2168
+    type: 100base-tx
+  - name: Vlan2168
+    type: 100base-tx
+  - name: Vlan2168
+    type: 100base-tx
+  - name: Vlan2216
+    type: 100base-tx
+  - name: Vlan2216
+    type: 100base-tx
+  - name: Vlan2216
+    type: 100base-tx
+  - name: Vlan2216
+    type: 100base-tx
+  - name: Vlan2224
+    type: 100base-tx
+  - name: Vlan2224
+    type: 100base-tx
+  - name: Vlan2224
+    type: 100base-tx
+  - name: Vlan2224
+    type: 100base-tx
+  - name: Vlan2232
+    type: 100base-tx
+  - name: Vlan2232
+    type: 100base-tx
+  - name: Vlan2240
+    type: 100base-tx
+  - name: Vlan2240
+    type: 100base-tx
+  - name: Vlan2240
+    type: 100base-tx
+  - name: Vlan2240
+    type: 100base-tx
+  - name: Vlan2248
+    type: 100base-tx
+  - name: Vlan2248
+    type: 100base-tx
+  - name: Vlan2248
+    type: 100base-tx
+  - name: Vlan2248
+    type: 100base-tx
+  - name: Vlan2250
+    type: 100base-tx
+  - name: Vlan2250
+    type: 100base-tx
+  - name: Vlan300
+    type: 100base-tx
+  - name: Vlan300
+    type: 100base-tx
+  - name: Vlan300
+    type: 100base-tx
+  - name: Vlan300
+    type: 100base-tx
+  - name: Vlan334
+    type: 100base-tx
+  - name: Vlan334
+    type: 100base-tx
+  - name: Vlan335
+    type: 100base-tx
+  - name: Vlan335
+    type: 100base-tx
+  - name: Vlan336
+    type: 100base-tx
+  - name: Vlan336
+    type: 100base-tx
+  - name: Vlan338
+    type: 100base-tx
+  - name: Vlan338
+    type: 100base-tx
+  - name: Vlan358
+    type: 100base-tx
+  - name: Vlan358
+    type: 100base-tx
+  - name: Vlan360
+    type: 100base-tx
+  - name: Vlan360
+    type: 100base-tx
+  - name: Vlan361
+    type: 100base-tx
+  - name: Vlan361
+    type: 100base-tx
+  - name: Vlan430
+    type: 100base-tx
+  - name: Vlan430
+    type: 100base-tx
+  - name: Vlan431
+    type: 100base-tx
+  - name: Vlan431
+    type: 100base-tx
+  - name: Vlan664
+    type: 100base-tx
+  - name: Vlan664
+    type: 100base-tx
+comments: custom1

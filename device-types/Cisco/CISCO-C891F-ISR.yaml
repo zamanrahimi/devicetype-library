@@ -1,0 +1,851 @@
+manufacturer: Cisco
+model: Cisco C891F ISR
+part_number: Cisco C891F ISR
+slug: cisco-c891f-isr
+u_height: 1
+interfaces:
+  - name: Async3
+    type: 100base-tx
+  - name: Async3
+    type: 100base-tx
+  - name: Async3
+    type: 100base-tx
+  - name: Async3
+    type: 100base-tx
+  - name: Async3
+    type: 100base-tx
+  - name: Async3
+    type: 100base-tx
+  - name: Async3
+    type: 100base-tx
+  - name: Async3
+    type: 100base-tx
+  - name: Async3
+    type: 100base-tx
+  - name: Async3
+    type: 100base-tx
+  - name: Async3
+    type: 100base-tx
+  - name: Async3
+    type: 100base-tx
+  - name: Async3
+    type: 100base-tx
+  - name: Async3
+    type: 100base-tx
+  - name: Async3
+    type: 100base-tx
+  - name: Async3
+    type: 100base-tx
+  - name: Async3
+    type: 100base-tx
+  - name: Async3
+    type: 100base-tx
+  - name: Async3
+    type: 100base-tx
+  - name: BRI0
+    type: 100base-tx
+  - name: BRI0
+    type: 100base-tx
+  - name: BRI0
+    type: 100base-tx
+  - name: BRI0
+    type: 100base-tx
+  - name: BRI0
+    type: 100base-tx
+  - name: BRI0
+    type: 100base-tx
+  - name: BRI0
+    type: 100base-tx
+  - name: BRI0
+    type: 100base-tx
+  - name: BRI0
+    type: 100base-tx
+  - name: BRI0
+    type: 100base-tx
+  - name: BRI0
+    type: 100base-tx
+  - name: BRI0
+    type: 100base-tx
+  - name: BRI0
+    type: 100base-tx
+  - name: BRI0
+    type: 100base-tx
+  - name: BRI0
+    type: 100base-tx
+  - name: BRI0
+    type: 100base-tx
+  - name: BRI0
+    type: 100base-tx
+  - name: BRI0
+    type: 100base-tx
+  - name: BRI0
+    type: 100base-tx
+  - name: BRI0:1
+    type: 100base-tx
+  - name: BRI0:1
+    type: 100base-tx
+  - name: BRI0:1
+    type: 100base-tx
+  - name: BRI0:1
+    type: 100base-tx
+  - name: BRI0:1
+    type: 100base-tx
+  - name: BRI0:1
+    type: 100base-tx
+  - name: BRI0:1
+    type: 100base-tx
+  - name: BRI0:1
+    type: 100base-tx
+  - name: BRI0:1
+    type: 100base-tx
+  - name: BRI0:1
+    type: 100base-tx
+  - name: BRI0:1
+    type: 100base-tx
+  - name: BRI0:1
+    type: 100base-tx
+  - name: BRI0:1
+    type: 100base-tx
+  - name: BRI0:1
+    type: 100base-tx
+  - name: BRI0:1
+    type: 100base-tx
+  - name: BRI0:1
+    type: 100base-tx
+  - name: BRI0:1
+    type: 100base-tx
+  - name: BRI0:1
+    type: 100base-tx
+  - name: BRI0:1
+    type: 100base-tx
+  - name: BRI0:2
+    type: 100base-tx
+  - name: BRI0:2
+    type: 100base-tx
+  - name: BRI0:2
+    type: 100base-tx
+  - name: BRI0:2
+    type: 100base-tx
+  - name: BRI0:2
+    type: 100base-tx
+  - name: BRI0:2
+    type: 100base-tx
+  - name: BRI0:2
+    type: 100base-tx
+  - name: BRI0:2
+    type: 100base-tx
+  - name: BRI0:2
+    type: 100base-tx
+  - name: BRI0:2
+    type: 100base-tx
+  - name: BRI0:2
+    type: 100base-tx
+  - name: BRI0:2
+    type: 100base-tx
+  - name: BRI0:2
+    type: 100base-tx
+  - name: BRI0:2
+    type: 100base-tx
+  - name: BRI0:2
+    type: 100base-tx
+  - name: BRI0:2
+    type: 100base-tx
+  - name: BRI0:2
+    type: 100base-tx
+  - name: BRI0:2
+    type: 100base-tx
+  - name: BRI0:2
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet1
+    type: 100base-tx
+  - name: GigabitEthernet1
+    type: 100base-tx
+  - name: GigabitEthernet1
+    type: 100base-tx
+  - name: GigabitEthernet1
+    type: 100base-tx
+  - name: GigabitEthernet1
+    type: 100base-tx
+  - name: GigabitEthernet1
+    type: 100base-tx
+  - name: GigabitEthernet1
+    type: 100base-tx
+  - name: GigabitEthernet1
+    type: 100base-tx
+  - name: GigabitEthernet1
+    type: 100base-tx
+  - name: GigabitEthernet1
+    type: 100base-tx
+  - name: GigabitEthernet1
+    type: 100base-tx
+  - name: GigabitEthernet1
+    type: 100base-tx
+  - name: GigabitEthernet1
+    type: 100base-tx
+  - name: GigabitEthernet1
+    type: 100base-tx
+  - name: GigabitEthernet1
+    type: 100base-tx
+  - name: GigabitEthernet1
+    type: 100base-tx
+  - name: GigabitEthernet1
+    type: 100base-tx
+  - name: GigabitEthernet1
+    type: 100base-tx
+  - name: GigabitEthernet1
+    type: 100base-tx
+  - name: GigabitEthernet2
+    type: 100base-tx
+  - name: GigabitEthernet2
+    type: 100base-tx
+  - name: GigabitEthernet2
+    type: 100base-tx
+  - name: GigabitEthernet2
+    type: 100base-tx
+  - name: GigabitEthernet2
+    type: 100base-tx
+  - name: GigabitEthernet2
+    type: 100base-tx
+  - name: GigabitEthernet2
+    type: 100base-tx
+  - name: GigabitEthernet2
+    type: 100base-tx
+  - name: GigabitEthernet2
+    type: 100base-tx
+  - name: GigabitEthernet2
+    type: 100base-tx
+  - name: GigabitEthernet2
+    type: 100base-tx
+  - name: GigabitEthernet2
+    type: 100base-tx
+  - name: GigabitEthernet2
+    type: 100base-tx
+  - name: GigabitEthernet2
+    type: 100base-tx
+  - name: GigabitEthernet2
+    type: 100base-tx
+  - name: GigabitEthernet2
+    type: 100base-tx
+  - name: GigabitEthernet2
+    type: 100base-tx
+  - name: GigabitEthernet2
+    type: 100base-tx
+  - name: GigabitEthernet2
+    type: 100base-tx
+  - name: GigabitEthernet3
+    type: 100base-tx
+  - name: GigabitEthernet3
+    type: 100base-tx
+  - name: GigabitEthernet3
+    type: 100base-tx
+  - name: GigabitEthernet3
+    type: 100base-tx
+  - name: GigabitEthernet3
+    type: 100base-tx
+  - name: GigabitEthernet3
+    type: 100base-tx
+  - name: GigabitEthernet3
+    type: 100base-tx
+  - name: GigabitEthernet3
+    type: 100base-tx
+  - name: GigabitEthernet3
+    type: 100base-tx
+  - name: GigabitEthernet3
+    type: 100base-tx
+  - name: GigabitEthernet3
+    type: 100base-tx
+  - name: GigabitEthernet3
+    type: 100base-tx
+  - name: GigabitEthernet3
+    type: 100base-tx
+  - name: GigabitEthernet3
+    type: 100base-tx
+  - name: GigabitEthernet3
+    type: 100base-tx
+  - name: GigabitEthernet3
+    type: 100base-tx
+  - name: GigabitEthernet3
+    type: 100base-tx
+  - name: GigabitEthernet3
+    type: 100base-tx
+  - name: GigabitEthernet3
+    type: 100base-tx
+  - name: GigabitEthernet4
+    type: 100base-tx
+  - name: GigabitEthernet4
+    type: 100base-tx
+  - name: GigabitEthernet4
+    type: 100base-tx
+  - name: GigabitEthernet4
+    type: 100base-tx
+  - name: GigabitEthernet4
+    type: 100base-tx
+  - name: GigabitEthernet4
+    type: 100base-tx
+  - name: GigabitEthernet4
+    type: 100base-tx
+  - name: GigabitEthernet4
+    type: 100base-tx
+  - name: GigabitEthernet4
+    type: 100base-tx
+  - name: GigabitEthernet4
+    type: 100base-tx
+  - name: GigabitEthernet4
+    type: 100base-tx
+  - name: GigabitEthernet4
+    type: 100base-tx
+  - name: GigabitEthernet4
+    type: 100base-tx
+  - name: GigabitEthernet4
+    type: 100base-tx
+  - name: GigabitEthernet4
+    type: 100base-tx
+  - name: GigabitEthernet4
+    type: 100base-tx
+  - name: GigabitEthernet4
+    type: 100base-tx
+  - name: GigabitEthernet4
+    type: 100base-tx
+  - name: GigabitEthernet4
+    type: 100base-tx
+  - name: GigabitEthernet5
+    type: 100base-tx
+  - name: GigabitEthernet5
+    type: 100base-tx
+  - name: GigabitEthernet5
+    type: 100base-tx
+  - name: GigabitEthernet5
+    type: 100base-tx
+  - name: GigabitEthernet5
+    type: 100base-tx
+  - name: GigabitEthernet5
+    type: 100base-tx
+  - name: GigabitEthernet5
+    type: 100base-tx
+  - name: GigabitEthernet5
+    type: 100base-tx
+  - name: GigabitEthernet5
+    type: 100base-tx
+  - name: GigabitEthernet5
+    type: 100base-tx
+  - name: GigabitEthernet5
+    type: 100base-tx
+  - name: GigabitEthernet5
+    type: 100base-tx
+  - name: GigabitEthernet5
+    type: 100base-tx
+  - name: GigabitEthernet5
+    type: 100base-tx
+  - name: GigabitEthernet5
+    type: 100base-tx
+  - name: GigabitEthernet5
+    type: 100base-tx
+  - name: GigabitEthernet5
+    type: 100base-tx
+  - name: GigabitEthernet5
+    type: 100base-tx
+  - name: GigabitEthernet5
+    type: 100base-tx
+  - name: GigabitEthernet6
+    type: 100base-tx
+  - name: GigabitEthernet6
+    type: 100base-tx
+  - name: GigabitEthernet6
+    type: 100base-tx
+  - name: GigabitEthernet6
+    type: 100base-tx
+  - name: GigabitEthernet6
+    type: 100base-tx
+  - name: GigabitEthernet6
+    type: 100base-tx
+  - name: GigabitEthernet6
+    type: 100base-tx
+  - name: GigabitEthernet6
+    type: 100base-tx
+  - name: GigabitEthernet6
+    type: 100base-tx
+  - name: GigabitEthernet6
+    type: 100base-tx
+  - name: GigabitEthernet6
+    type: 100base-tx
+  - name: GigabitEthernet6
+    type: 100base-tx
+  - name: GigabitEthernet6
+    type: 100base-tx
+  - name: GigabitEthernet6
+    type: 100base-tx
+  - name: GigabitEthernet6
+    type: 100base-tx
+  - name: GigabitEthernet6
+    type: 100base-tx
+  - name: GigabitEthernet6
+    type: 100base-tx
+  - name: GigabitEthernet6
+    type: 100base-tx
+  - name: GigabitEthernet6
+    type: 100base-tx
+  - name: GigabitEthernet7
+    type: 100base-tx
+  - name: GigabitEthernet7
+    type: 100base-tx
+  - name: GigabitEthernet7
+    type: 100base-tx
+  - name: GigabitEthernet7
+    type: 100base-tx
+  - name: GigabitEthernet7
+    type: 100base-tx
+  - name: GigabitEthernet7
+    type: 100base-tx
+  - name: GigabitEthernet7
+    type: 100base-tx
+  - name: GigabitEthernet7
+    type: 100base-tx
+  - name: GigabitEthernet7
+    type: 100base-tx
+  - name: GigabitEthernet7
+    type: 100base-tx
+  - name: GigabitEthernet7
+    type: 100base-tx
+  - name: GigabitEthernet7
+    type: 100base-tx
+  - name: GigabitEthernet7
+    type: 100base-tx
+  - name: GigabitEthernet7
+    type: 100base-tx
+  - name: GigabitEthernet7
+    type: 100base-tx
+  - name: GigabitEthernet7
+    type: 100base-tx
+  - name: GigabitEthernet7
+    type: 100base-tx
+  - name: GigabitEthernet7
+    type: 100base-tx
+  - name: GigabitEthernet7
+    type: 100base-tx
+  - name: GigabitEthernet8
+    type: 100base-tx
+  - name: GigabitEthernet8
+    type: 100base-tx
+  - name: GigabitEthernet8
+    type: 100base-tx
+  - name: GigabitEthernet8
+    type: 100base-tx
+  - name: GigabitEthernet8
+    type: 100base-tx
+  - name: GigabitEthernet8
+    type: 100base-tx
+  - name: GigabitEthernet8
+    type: 100base-tx
+  - name: GigabitEthernet8
+    type: 100base-tx
+  - name: GigabitEthernet8
+    type: 100base-tx
+  - name: GigabitEthernet8
+    type: 100base-tx
+  - name: GigabitEthernet8
+    type: 100base-tx
+  - name: GigabitEthernet8
+    type: 100base-tx
+  - name: GigabitEthernet8
+    type: 100base-tx
+  - name: GigabitEthernet8
+    type: 100base-tx
+  - name: GigabitEthernet8
+    type: 100base-tx
+  - name: GigabitEthernet8
+    type: 100base-tx
+  - name: GigabitEthernet8
+    type: 100base-tx
+  - name: GigabitEthernet8
+    type: 100base-tx
+  - name: GigabitEthernet8
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Multilink1
+    type: 100base-tx
+  - name: Multilink10
+    type: 100base-tx
+  - name: NVI0
+    type: 100base-tx
+  - name: NVI0
+    type: 100base-tx
+  - name: NVI0
+    type: 100base-tx
+  - name: NVI0
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel1
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+comments: custom1

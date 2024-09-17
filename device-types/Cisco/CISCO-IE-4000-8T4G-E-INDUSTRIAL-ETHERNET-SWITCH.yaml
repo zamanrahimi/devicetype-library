@@ -1,0 +1,39 @@
+manufacturer: Cisco
+model: Cisco IE-4000-8T4G-E Industrial Ethernet Switch
+part_number: Cisco IE-4000-8T4G-E Industrial Ethernet Switch
+slug: cisco-ie-4000-8t4g-e-industrial-ethernet-switch
+u_height: 1
+interfaces:
+  - name: FastEthernet1/10
+    type: 100base-tx
+  - name: FastEthernet1/11
+    type: 100base-tx
+  - name: FastEthernet1/12
+    type: 100base-tx
+  - name: FastEthernet1/5
+    type: 100base-tx
+  - name: FastEthernet1/6
+    type: 100base-tx
+  - name: FastEthernet1/7
+    type: 100base-tx
+  - name: FastEthernet1/8
+    type: 100base-tx
+  - name: FastEthernet1/9
+    type: 100base-tx
+  - name: GigabitEthernet1/1
+    type: 100base-tx
+  - name: GigabitEthernet1/2
+    type: 100base-tx
+  - name: GigabitEthernet1/3
+    type: 100base-tx
+  - name: GigabitEthernet1/4
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan500
+    type: 100base-tx
+comments: custom1

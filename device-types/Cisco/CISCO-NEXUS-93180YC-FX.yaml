@@ -1,0 +1,13 @@
+manufacturer: Cisco
+model: Cisco Nexus 93180YC-FX
+part_number: Cisco Nexus 93180YC-FX
+slug: cisco-nexus-93180yc-fx
+u_height: 1
+interfaces:
+  - name: IP
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Vlan811
+    type: 100base-tx
+comments: custom1

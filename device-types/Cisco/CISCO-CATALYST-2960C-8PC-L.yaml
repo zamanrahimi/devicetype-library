@@ -1,0 +1,739 @@
+manufacturer: Cisco
+model: Cisco Catalyst 2960C-8PC-L
+part_number: Cisco Catalyst 2960C-8PC-L
+slug: cisco-catalyst-2960c-8pc-l
+u_height: 1
+interfaces:
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan10
+    type: 100base-tx
+  - name: Vlan10
+    type: 100base-tx
+  - name: Vlan10
+    type: 100base-tx
+  - name: Vlan100
+    type: 100base-tx
+  - name: Vlan100
+    type: 100base-tx
+  - name: Vlan100
+    type: 100base-tx
+  - name: Vlan100
+    type: 100base-tx
+  - name: Vlan11
+    type: 100base-tx
+  - name: Vlan2
+    type: 100base-tx
+  - name: Vlan2
+    type: 100base-tx
+  - name: Vlan2
+    type: 100base-tx
+  - name: Vlan2
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan3
+    type: 100base-tx
+  - name: Vlan3
+    type: 100base-tx
+  - name: Vlan301
+    type: 100base-tx
+  - name: Vlan301
+    type: 100base-tx
+  - name: Vlan301
+    type: 100base-tx
+  - name: Vlan4
+    type: 100base-tx
+  - name: Vlan5
+    type: 100base-tx
+  - name: Vlan6
+    type: 100base-tx
+  - name: Vlan60
+    type: 100base-tx
+  - name: Vlan600
+    type: 100base-tx
+  - name: Vlan7
+    type: 100base-tx
+  - name: Vlan8
+    type: 100base-tx
+  - name: Vlan9
+    type: 100base-tx
+comments: custom1

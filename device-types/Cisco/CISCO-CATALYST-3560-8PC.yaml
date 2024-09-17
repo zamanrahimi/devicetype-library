@@ -1,0 +1,169 @@
+manufacturer: Cisco
+model: Cisco Catalyst 3560-8PC
+part_number: Cisco Catalyst 3560-8PC
+slug: cisco-catalyst-3560-8pc
+u_height: 1
+interfaces:
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/2
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/3
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/4
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/5
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/6
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/7
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: FastEthernet0/8
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan101
+    type: 100base-tx
+comments: custom1

@@ -1,0 +1,257 @@
+manufacturer: Cisco
+model: Cisco 2811
+part_number: Cisco 2811
+slug: cisco-2811
+u_height: 1
+interfaces:
+  - name: FastEthernet0/0
+    type: 100base-tx
+  - name: FastEthernet0/0
+    type: 100base-tx
+  - name: FastEthernet0/0
+    type: 100base-tx
+  - name: FastEthernet0/0
+    type: 100base-tx
+  - name: FastEthernet0/0
+    type: 100base-tx
+  - name: FastEthernet0/0
+    type: 100base-tx
+  - name: FastEthernet0/0
+    type: 100base-tx
+  - name: FastEthernet0/0
+    type: 100base-tx
+  - name: FastEthernet0/0
+    type: 100base-tx
+  - name: FastEthernet0/0
+    type: 100base-tx
+  - name: FastEthernet0/0
+    type: 100base-tx
+  - name: FastEthernet0/0
+    type: 100base-tx
+  - name: FastEthernet0/0/0
+    type: 100base-tx
+  - name: FastEthernet0/0/0
+    type: 100base-tx
+  - name: FastEthernet0/0/0
+    type: 100base-tx
+  - name: FastEthernet0/0/1
+    type: 100base-tx
+  - name: FastEthernet0/0/1
+    type: 100base-tx
+  - name: FastEthernet0/0/1
+    type: 100base-tx
+  - name: FastEthernet0/0/2
+    type: 100base-tx
+  - name: FastEthernet0/0/2
+    type: 100base-tx
+  - name: FastEthernet0/0/2
+    type: 100base-tx
+  - name: FastEthernet0/0/3
+    type: 100base-tx
+  - name: FastEthernet0/0/3
+    type: 100base-tx
+  - name: FastEthernet0/0/3
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1
+    type: 100base-tx
+  - name: FastEthernet0/1/0
+    type: 100base-tx
+  - name: FastEthernet0/1/1
+    type: 100base-tx
+  - name: FastEthernet0/1/2
+    type: 100base-tx
+  - name: FastEthernet0/1/3
+    type: 100base-tx
+  - name: FastEthernet0/1/4
+    type: 100base-tx
+  - name: FastEthernet0/1/5
+    type: 100base-tx
+  - name: FastEthernet0/1/6
+    type: 100base-tx
+  - name: FastEthernet0/1/7
+    type: 100base-tx
+  - name: FastEthernet0/1/8
+    type: 100base-tx
+  - name: FastEthernet0/3/0
+    type: 100base-tx
+  - name: FastEthernet0/3/0
+    type: 100base-tx
+  - name: FastEthernet0/3/0
+    type: 100base-tx
+  - name: FastEthernet0/3/0
+    type: 100base-tx
+  - name: FastEthernet0/3/0
+    type: 100base-tx
+  - name: FastEthernet0/3/0
+    type: 100base-tx
+  - name: FastEthernet0/3/0
+    type: 100base-tx
+  - name: FastEthernet0/3/0
+    type: 100base-tx
+  - name: FastEthernet0/3/1
+    type: 100base-tx
+  - name: FastEthernet0/3/1
+    type: 100base-tx
+  - name: FastEthernet0/3/1
+    type: 100base-tx
+  - name: FastEthernet0/3/1
+    type: 100base-tx
+  - name: FastEthernet0/3/1
+    type: 100base-tx
+  - name: FastEthernet0/3/1
+    type: 100base-tx
+  - name: FastEthernet0/3/1
+    type: 100base-tx
+  - name: FastEthernet0/3/1
+    type: 100base-tx
+  - name: FastEthernet0/3/2
+    type: 100base-tx
+  - name: FastEthernet0/3/2
+    type: 100base-tx
+  - name: FastEthernet0/3/2
+    type: 100base-tx
+  - name: FastEthernet0/3/2
+    type: 100base-tx
+  - name: FastEthernet0/3/2
+    type: 100base-tx
+  - name: FastEthernet0/3/2
+    type: 100base-tx
+  - name: FastEthernet0/3/2
+    type: 100base-tx
+  - name: FastEthernet0/3/2
+    type: 100base-tx
+  - name: FastEthernet0/3/3
+    type: 100base-tx
+  - name: FastEthernet0/3/3
+    type: 100base-tx
+  - name: FastEthernet0/3/3
+    type: 100base-tx
+  - name: FastEthernet0/3/3
+    type: 100base-tx
+  - name: FastEthernet0/3/3
+    type: 100base-tx
+  - name: FastEthernet0/3/3
+    type: 100base-tx
+  - name: FastEthernet0/3/3
+    type: 100base-tx
+  - name: FastEthernet0/3/3
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Serial0/0/0
+    type: 100base-tx
+  - name: Serial0/0/0
+    type: 100base-tx
+  - name: Serial0/0/0
+    type: 100base-tx
+  - name: Serial0/0/0
+    type: 100base-tx
+  - name: Serial0/0/0
+    type: 100base-tx
+  - name: Serial0/0/0
+    type: 100base-tx
+  - name: Serial0/0/0
+    type: 100base-tx
+  - name: Serial0/0/0
+    type: 100base-tx
+  - name: Serial0/1/0
+    type: 100base-tx
+  - name: Serial0/1/0
+    type: 100base-tx
+  - name: Serial0/1/0
+    type: 100base-tx
+  - name: Serial0/1/0
+    type: 100base-tx
+  - name: Serial0/1/0
+    type: 100base-tx
+  - name: Serial0/1/0
+    type: 100base-tx
+  - name: Serial0/1/0
+    type: 100base-tx
+  - name: Serial0/2/0
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan101
+    type: 100base-tx
+  - name: Vlan2
+    type: 100base-tx
+  - name: Vlan2
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan301
+    type: 100base-tx
+  - name: Vlan401
+    type: 100base-tx
+  - name: Vlan501
+    type: 100base-tx
+comments: custom1

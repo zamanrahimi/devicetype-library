@@ -1,0 +1,225 @@
+manufacturer: Cisco
+model: Cisco 819 Hardened ISR
+part_number: Cisco 819 Hardened ISR
+slug: cisco-819-hardened-isr
+u_height: 1
+interfaces:
+  - name: Async1
+    type: 100base-tx
+  - name: Cellular0
+    type: 100base-tx
+  - name: Cellular0
+    type: 100base-tx
+  - name: Cellular0
+    type: 100base-tx
+  - name: Cellular0
+    type: 100base-tx
+  - name: Cellular0
+    type: 100base-tx
+  - name: Cellular0
+    type: 100base-tx
+  - name: Cellular1
+    type: 100base-tx
+  - name: Cellular1
+    type: 100base-tx
+  - name: Cellular1
+    type: 100base-tx
+  - name: Cellular1
+    type: 100base-tx
+  - name: Cellular1
+    type: 100base-tx
+  - name: Cellular1
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet0
+    type: 100base-tx
+  - name: FastEthernet1
+    type: 100base-tx
+  - name: FastEthernet1
+    type: 100base-tx
+  - name: FastEthernet1
+    type: 100base-tx
+  - name: FastEthernet1
+    type: 100base-tx
+  - name: FastEthernet1
+    type: 100base-tx
+  - name: FastEthernet1
+    type: 100base-tx
+  - name: FastEthernet2
+    type: 100base-tx
+  - name: FastEthernet2
+    type: 100base-tx
+  - name: FastEthernet2
+    type: 100base-tx
+  - name: FastEthernet2
+    type: 100base-tx
+  - name: FastEthernet2
+    type: 100base-tx
+  - name: FastEthernet2
+    type: 100base-tx
+  - name: FastEthernet3
+    type: 100base-tx
+  - name: FastEthernet3
+    type: 100base-tx
+  - name: FastEthernet3
+    type: 100base-tx
+  - name: FastEthernet3
+    type: 100base-tx
+  - name: FastEthernet3
+    type: 100base-tx
+  - name: FastEthernet3
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: NVI0
+    type: 100base-tx
+  - name: Serial0
+    type: 100base-tx
+  - name: Serial0
+    type: 100base-tx
+  - name: Serial0
+    type: 100base-tx
+  - name: Serial0
+    type: 100base-tx
+  - name: Serial0
+    type: 100base-tx
+  - name: Serial0
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel12
+    type: 100base-tx
+  - name: Tunnel12
+    type: 100base-tx
+  - name: Tunnel13
+    type: 100base-tx
+  - name: Tunnel13
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan201
+    type: 100base-tx
+  - name: Vlan401
+    type: 100base-tx
+comments: custom1

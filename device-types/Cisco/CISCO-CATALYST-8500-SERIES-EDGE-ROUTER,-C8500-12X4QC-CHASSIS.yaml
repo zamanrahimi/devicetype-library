@@ -1,0 +1,95 @@
+manufacturer: Cisco
+model: Cisco Catalyst 8500 Series Edge Router, C8500-12X4QC Chassis
+part_number: Cisco Catalyst 8500 Series Edge Router, C8500-12X4QC Chassis
+slug: cisco-catalyst-8500-series-edge-router,-c8500-12x4qc-chassis
+u_height: 1
+interfaces:
+  - name: Fo0/2/0
+    type: 100base-tx
+  - name: Fo0/2/0
+    type: 100base-tx
+  - name: Fo0/2/4
+    type: 100base-tx
+  - name: Fo0/2/4
+    type: 100base-tx
+  - name: Fo0/2/8
+    type: 100base-tx
+  - name: Fo0/2/8
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: Port-channel1
+    type: 100base-tx
+  - name: Port-channel1.3054
+    type: 100base-tx
+  - name: Port-channel14
+    type: 100base-tx
+  - name: Port-channel14.3054
+    type: 100base-tx
+  - name: Te0/0/0
+    type: 100base-tx
+  - name: Te0/0/0
+    type: 100base-tx
+  - name: Te0/0/1
+    type: 100base-tx
+  - name: Te0/0/1
+    type: 100base-tx
+  - name: Te0/0/1.3104
+    type: 100base-tx
+  - name: Te0/0/1.3105
+    type: 100base-tx
+  - name: Te0/0/2
+    type: 100base-tx
+  - name: Te0/0/2
+    type: 100base-tx
+  - name: Te0/0/3
+    type: 100base-tx
+  - name: Te0/0/3
+    type: 100base-tx
+  - name: Te0/0/4
+    type: 100base-tx
+  - name: Te0/0/4
+    type: 100base-tx
+  - name: Te0/0/5
+    type: 100base-tx
+  - name: Te0/0/5
+    type: 100base-tx
+  - name: Te0/0/6
+    type: 100base-tx
+  - name: Te0/0/6
+    type: 100base-tx
+  - name: Te0/0/7
+    type: 100base-tx
+  - name: Te0/0/7
+    type: 100base-tx
+  - name: Te0/1/0
+    type: 100base-tx
+  - name: Te0/1/0
+    type: 100base-tx
+  - name: Te0/1/1
+    type: 100base-tx
+  - name: Te0/1/1
+    type: 100base-tx
+  - name: Te0/1/2
+    type: 100base-tx
+  - name: Te0/1/2
+    type: 100base-tx
+  - name: Te0/1/3
+    type: 100base-tx
+  - name: Te0/1/3
+    type: 100base-tx
+  - name: Te0/1/3.46
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel1
+    type: 100base-tx
+  - name: Tunnel1
+    type: 100base-tx
+  - name: Tunnel3
+    type: 100base-tx
+comments: custom1

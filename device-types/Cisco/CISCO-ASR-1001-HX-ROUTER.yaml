@@ -1,0 +1,211 @@
+manufacturer: Cisco
+model: Cisco ASR 1001-HX Router
+part_number: Cisco ASR 1001-HX Router
+slug: cisco-asr-1001-hx-router
+u_height: 1
+interfaces:
+  - name: Gi0/0/0.2800
+    type: 100base-tx
+  - name: Gi0/0/1.2800
+    type: 100base-tx
+  - name: Gi0/0/4.400
+    type: 100base-tx
+  - name: Gi0/0/4.400
+    type: 100base-tx
+  - name: Gi0/0/4.500
+    type: 100base-tx
+  - name: Gi0/0/4.500
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0
+    type: 100base-tx
+  - name: GigabitEthernet0/0/0
+    type: 100base-tx
+  - name: GigabitEthernet0/0/0
+    type: 100base-tx
+  - name: GigabitEthernet0/0/0
+    type: 100base-tx
+  - name: GigabitEthernet0/0/0
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/0/3
+    type: 100base-tx
+  - name: GigabitEthernet0/0/3
+    type: 100base-tx
+  - name: GigabitEthernet0/0/3
+    type: 100base-tx
+  - name: GigabitEthernet0/0/3
+    type: 100base-tx
+  - name: GigabitEthernet0/0/4
+    type: 100base-tx
+  - name: GigabitEthernet0/0/4
+    type: 100base-tx
+  - name: GigabitEthernet0/0/4
+    type: 100base-tx
+  - name: GigabitEthernet0/0/4
+    type: 100base-tx
+  - name: GigabitEthernet0/0/5
+    type: 100base-tx
+  - name: GigabitEthernet0/0/5
+    type: 100base-tx
+  - name: GigabitEthernet0/0/5
+    type: 100base-tx
+  - name: GigabitEthernet0/0/5
+    type: 100base-tx
+  - name: GigabitEthernet0/0/6
+    type: 100base-tx
+  - name: GigabitEthernet0/0/6
+    type: 100base-tx
+  - name: GigabitEthernet0/0/6
+    type: 100base-tx
+  - name: GigabitEthernet0/0/6
+    type: 100base-tx
+  - name: GigabitEthernet0/0/7
+    type: 100base-tx
+  - name: GigabitEthernet0/0/7
+    type: 100base-tx
+  - name: GigabitEthernet0/0/7
+    type: 100base-tx
+  - name: GigabitEthernet0/0/7
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Loopback400
+    type: 100base-tx
+  - name: Loopback4000
+    type: 100base-tx
+  - name: Loopback500
+    type: 100base-tx
+  - name: Loopback5000
+    type: 100base-tx
+  - name: Loopback65528
+    type: 100base-tx
+  - name: Loopback65528
+    type: 100base-tx
+  - name: NVI0
+    type: 100base-tx
+  - name: NVI0
+    type: 100base-tx
+  - name: Sdwan-system-intf
+    type: 100base-tx
+  - name: Sdwan-system-intf
+    type: 100base-tx
+  - name: Te0/1/0
+    type: 100base-tx
+  - name: Te0/1/0
+    type: 100base-tx
+  - name: Te0/1/0
+    type: 100base-tx
+  - name: Te0/1/0
+    type: 100base-tx
+  - name: Te0/1/0.100
+    type: 100base-tx
+  - name: Te0/1/0.100
+    type: 100base-tx
+  - name: Te0/1/0.3902
+    type: 100base-tx
+  - name: Te0/1/0.3903
+    type: 100base-tx
+  - name: Te0/1/1
+    type: 100base-tx
+  - name: Te0/1/1
+    type: 100base-tx
+  - name: Te0/1/1
+    type: 100base-tx
+  - name: Te0/1/1
+    type: 100base-tx
+  - name: Te0/1/1.100
+    type: 100base-tx
+  - name: Te0/1/1.100
+    type: 100base-tx
+  - name: Te0/1/2
+    type: 100base-tx
+  - name: Te0/1/2
+    type: 100base-tx
+  - name: Te0/1/2
+    type: 100base-tx
+  - name: Te0/1/2
+    type: 100base-tx
+  - name: Te0/1/3
+    type: 100base-tx
+  - name: Te0/1/3
+    type: 100base-tx
+  - name: Te0/1/3
+    type: 100base-tx
+  - name: Te0/1/3
+    type: 100base-tx
+  - name: Te0/1/4
+    type: 100base-tx
+  - name: Te0/1/4
+    type: 100base-tx
+  - name: Te0/1/4
+    type: 100base-tx
+  - name: Te0/1/4
+    type: 100base-tx
+  - name: Te0/1/5
+    type: 100base-tx
+  - name: Te0/1/5
+    type: 100base-tx
+  - name: Te0/1/5
+    type: 100base-tx
+  - name: Te0/1/5
+    type: 100base-tx
+  - name: Te0/1/6
+    type: 100base-tx
+  - name: Te0/1/6
+    type: 100base-tx
+  - name: Te0/1/6
+    type: 100base-tx
+  - name: Te0/1/6
+    type: 100base-tx
+  - name: Te0/1/7
+    type: 100base-tx
+  - name: Te0/1/7
+    type: 100base-tx
+  - name: Te0/1/7
+    type: 100base-tx
+  - name: Te0/1/7
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel1
+    type: 100base-tx
+  - name: Tunnel1
+    type: 100base-tx
+  - name: Tunnel2
+    type: 100base-tx
+  - name: Tunnel2
+    type: 100base-tx
+  - name: Tunnel3
+    type: 100base-tx
+  - name: Tunnel3
+    type: 100base-tx
+comments: custom1

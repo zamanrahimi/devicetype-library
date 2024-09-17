@@ -1,0 +1,63 @@
+manufacturer: Cisco
+model: Cisco Catalyst 2960CX-8TC-L Switch
+part_number: Cisco Catalyst 2960CX-8TC-L Switch
+slug: cisco-catalyst-2960cx-8tc-l-switch
+u_height: 1
+interfaces:
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/10
+    type: 100base-tx
+  - name: GigabitEthernet0/10
+    type: 100base-tx
+  - name: GigabitEthernet0/11
+    type: 100base-tx
+  - name: GigabitEthernet0/11
+    type: 100base-tx
+  - name: GigabitEthernet0/12
+    type: 100base-tx
+  - name: GigabitEthernet0/12
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/2
+    type: 100base-tx
+  - name: GigabitEthernet0/3
+    type: 100base-tx
+  - name: GigabitEthernet0/3
+    type: 100base-tx
+  - name: GigabitEthernet0/4
+    type: 100base-tx
+  - name: GigabitEthernet0/4
+    type: 100base-tx
+  - name: GigabitEthernet0/5
+    type: 100base-tx
+  - name: GigabitEthernet0/5
+    type: 100base-tx
+  - name: GigabitEthernet0/6
+    type: 100base-tx
+  - name: GigabitEthernet0/6
+    type: 100base-tx
+  - name: GigabitEthernet0/7
+    type: 100base-tx
+  - name: GigabitEthernet0/7
+    type: 100base-tx
+  - name: GigabitEthernet0/8
+    type: 100base-tx
+  - name: GigabitEthernet0/8
+    type: 100base-tx
+  - name: GigabitEthernet0/9
+    type: 100base-tx
+  - name: GigabitEthernet0/9
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+comments: custom1

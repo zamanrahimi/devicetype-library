@@ -1,0 +1,69 @@
+manufacturer: Cisco
+model: IE-4000-4T4P4G-E
+part_number: IE-4000-4T4P4G-E
+slug: ie-4000-4t4p4g-e
+u_height: 1
+interfaces:
+  - name: FastEthernet1/10
+    type: 100base-tx
+  - name: FastEthernet1/10
+    type: 100base-tx
+  - name: FastEthernet1/11
+    type: 100base-tx
+  - name: FastEthernet1/11
+    type: 100base-tx
+  - name: FastEthernet1/12
+    type: 100base-tx
+  - name: FastEthernet1/12
+    type: 100base-tx
+  - name: FastEthernet1/5
+    type: 100base-tx
+  - name: FastEthernet1/5
+    type: 100base-tx
+  - name: FastEthernet1/6
+    type: 100base-tx
+  - name: FastEthernet1/6
+    type: 100base-tx
+  - name: FastEthernet1/7
+    type: 100base-tx
+  - name: FastEthernet1/7
+    type: 100base-tx
+  - name: FastEthernet1/8
+    type: 100base-tx
+  - name: FastEthernet1/8
+    type: 100base-tx
+  - name: FastEthernet1/9
+    type: 100base-tx
+  - name: FastEthernet1/9
+    type: 100base-tx
+  - name: GigabitEthernet1/1
+    type: 100base-tx
+  - name: GigabitEthernet1/1
+    type: 100base-tx
+  - name: GigabitEthernet1/2
+    type: 100base-tx
+  - name: GigabitEthernet1/2
+    type: 100base-tx
+  - name: GigabitEthernet1/3
+    type: 100base-tx
+  - name: GigabitEthernet1/3
+    type: 100base-tx
+  - name: GigabitEthernet1/4
+    type: 100base-tx
+  - name: GigabitEthernet1/4
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Time
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan30
+    type: 100base-tx
+  - name: Vlan500
+    type: 100base-tx
+  - name: Vlan60
+    type: 100base-tx
+comments: custom1

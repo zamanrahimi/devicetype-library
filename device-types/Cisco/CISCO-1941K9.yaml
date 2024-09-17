@@ -1,0 +1,31 @@
+manufacturer: Cisco
+model: Cisco 1941K9
+part_number: Cisco 1941K9
+slug: cisco-1941k9
+u_height: 1
+interfaces:
+  - name: Embedded-Service-Engine0/0
+    type: 100base-tx
+  - name: GigabitEthernet0/0
+    type: 100base-tx
+  - name: GigabitEthernet0/1
+    type: 100base-tx
+  - name: GigabitEthernet0/1.2800
+    type: 100base-tx
+  - name: Loopback0
+    type: 100base-tx
+  - name: Multilink1
+    type: 100base-tx
+  - name: Serial0/0/0:0
+    type: 100base-tx
+  - name: Tunnel0
+    type: 100base-tx
+  - name: Tunnel10
+    type: 100base-tx
+  - name: Tunnel11
+    type: 100base-tx
+  - name: Tunnel12
+    type: 100base-tx
+  - name: Tunnel14
+    type: 100base-tx
+comments: custom1

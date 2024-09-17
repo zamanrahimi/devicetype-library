@@ -1,0 +1,165 @@
+manufacturer: Cisco
+model: Cisco ASR 9001
+part_number: Cisco ASR 9001
+slug: cisco-asr-9001
+u_height: 1
+interfaces:
+  - name: Bundle-Ether1
+    type: 100base-tx
+  - name: Bundle-Ether1
+    type: 100base-tx
+  - name: Bundle-Ether1.3000
+    type: 100base-tx
+  - name: Bundle-Ether1.3000
+    type: 100base-tx
+  - name: Bundle-Ether1.3001
+    type: 100base-tx
+  - name: Bundle-Ether1.3001
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/0
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/0
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/0.3104
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/0.3105
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/1
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/1
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/10
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/10
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/11
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/11
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/12
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/12
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/13
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/13
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/14
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/14
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/15
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/15
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/16
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/16
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/17
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/17
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/18
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/18
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/19
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/19
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/2
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/2
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/3
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/3
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/3.45
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/4
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/4
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/5
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/5
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/6
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/6
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/7
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/7
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/8
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/8
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/9
+    type: 100base-tx
+  - name: GigabitEthernet0/0/1/9
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: Interface
+    type: 100base-tx
+  - name: MgmtEth0/RSP0/CPU0/0
+    type: 100base-tx
+  - name: MgmtEth0/RSP0/CPU0/0
+    type: 100base-tx
+  - name: MgmtEth0/RSP0/CPU0/1
+    type: 100base-tx
+  - name: MgmtEth0/RSP0/CPU0/1
+    type: 100base-tx
+  - name: TenGigE0/0/0/0
+    type: 100base-tx
+  - name: TenGigE0/0/0/0
+    type: 100base-tx
+  - name: TenGigE0/0/0/0.30
+    type: 100base-tx
+  - name: TenGigE0/0/0/1
+    type: 100base-tx
+  - name: TenGigE0/0/0/1
+    type: 100base-tx
+  - name: TenGigE0/0/0/2
+    type: 100base-tx
+  - name: TenGigE0/0/0/2
+    type: 100base-tx
+  - name: TenGigE0/0/0/3
+    type: 100base-tx
+  - name: TenGigE0/0/0/3
+    type: 100base-tx
+  - name: TenGigE0/0/2/0
+    type: 100base-tx
+  - name: TenGigE0/0/2/0
+    type: 100base-tx
+  - name: TenGigE0/0/2/1
+    type: 100base-tx
+  - name: TenGigE0/0/2/1
+    type: 100base-tx
+  - name: TenGigE0/0/2/2
+    type: 100base-tx
+  - name: TenGigE0/0/2/2
+    type: 100base-tx
+  - name: TenGigE0/0/2/3
+    type: 100base-tx
+  - name: TenGigE0/0/2/3
+    type: 100base-tx
+  - name: Thu
+    type: 100base-tx
+  - name: Thu
+    type: 100base-tx
+  - name: tunnel-ip0
+    type: 100base-tx
+  - name: tunnel-ip0
+    type: 100base-tx
+  - name: tunnel-ip1
+    type: 100base-tx
+  - name: tunnel-ip2
+    type: 100base-tx
+  - name: tunnel-ip3
+    type: 100base-tx
+comments: custom1

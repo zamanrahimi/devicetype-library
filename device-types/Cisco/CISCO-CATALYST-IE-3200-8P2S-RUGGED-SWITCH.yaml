@@ -1,0 +1,61 @@
+manufacturer: Cisco
+model: Cisco Catalyst IE-3200-8P2S Rugged Switch
+part_number: Cisco Catalyst IE-3200-8P2S Rugged Switch
+slug: cisco-catalyst-ie-3200-8p2s-rugged-switch
+u_height: 1
+interfaces:
+  - name: GigabitEthernet1/1
+    type: 100base-tx
+  - name: GigabitEthernet1/1
+    type: 100base-tx
+  - name: GigabitEthernet1/10
+    type: 100base-tx
+  - name: GigabitEthernet1/10
+    type: 100base-tx
+  - name: GigabitEthernet1/2
+    type: 100base-tx
+  - name: GigabitEthernet1/2
+    type: 100base-tx
+  - name: GigabitEthernet1/3
+    type: 100base-tx
+  - name: GigabitEthernet1/3
+    type: 100base-tx
+  - name: GigabitEthernet1/4
+    type: 100base-tx
+  - name: GigabitEthernet1/4
+    type: 100base-tx
+  - name: GigabitEthernet1/5
+    type: 100base-tx
+  - name: GigabitEthernet1/5
+    type: 100base-tx
+  - name: GigabitEthernet1/6
+    type: 100base-tx
+  - name: GigabitEthernet1/6
+    type: 100base-tx
+  - name: GigabitEthernet1/7
+    type: 100base-tx
+  - name: GigabitEthernet1/7
+    type: 100base-tx
+  - name: GigabitEthernet1/8
+    type: 100base-tx
+  - name: GigabitEthernet1/8
+    type: 100base-tx
+  - name: GigabitEthernet1/9
+    type: 100base-tx
+  - name: GigabitEthernet1/9
+    type: 100base-tx
+  - name: Port-channel1
+    type: 100base-tx
+  - name: Port-channel2
+    type: 100base-tx
+  - name: Port-channel4
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan1
+    type: 100base-tx
+  - name: Vlan187
+    type: 100base-tx
+  - name: Vlan187
+    type: 100base-tx
+comments: custom1
